@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WowGim.vistitor_badge&left_color=green&right_color=red)
-
 ### About Me:
 I'm an experienced full stack developer.
 
@@ -9,7 +7,8 @@ I'm an experienced full stack developer.
 - 🚀 I'm proficient in web spider and web developer in Python
 - 📮 Reach out to me: zw.mg@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowGim&size_weight=0.5&count_weight=0.5)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowGim&size_weight=0.5&count_weight=0.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WowGim&layout=donut)
 ---
 ### 🛠️ Languages and Tools
 
